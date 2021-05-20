@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Aizu Musô Ryu Misawa Ha](https://aizuryu.com/wp-content/uploads/2019/11/logo-white.png)
